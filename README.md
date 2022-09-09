@@ -3,5 +3,5 @@ Utveksling av kode for å spare tid og lære av hverandre
 ### Er go object orientert?
 - go lar deg skrive object orientert stil, men bruker ikke arving som flere andre språk bruker.
 [mer om dette her](https://go.dev/doc/faq#Is_Go_an_object-oriented_language)
-### go bruker composition is stedet for arving 
+- go bruker composition is stedet for arving 
 [Mer om dette her](https://go.dev/doc/faq#inheritance)
